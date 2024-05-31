@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  width: 100%;
+}
+
+thead {
+  background-color: #009879;
+  color: white;
+  border: none;
+}
+
+td {
+  width: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+button{
+  color:white;
+  background-color: #0FBB7F;
+  margin-left: 10px;
+  border-radius: 5px;
+  border-color: #0FBB7F;
+}
